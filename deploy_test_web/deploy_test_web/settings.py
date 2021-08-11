@@ -31,7 +31,7 @@ ALLOWED_HOSTS = ['ec2-3-34-193-176.ap-northeast-2.compute.amazonaws.com']
 # Application definition
 
 INSTALLED_APPS = [
-    'deploy_test_web.frontend',
+    'frontend',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
